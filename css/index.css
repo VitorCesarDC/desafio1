@@ -1,0 +1,18 @@
+.botao_editar{
+    background: rgb(3, 196, 255);
+    color:rgb(245, 245, 245);
+   }
+   .botao_editar:hover{
+    background: rgba(3, 124, 238, 0.767);
+    color:white;
+   }
+   h1{
+     
+     font-family: 'Times New Roman', Times, serif;
+   }
+   body{
+       background-color: #e74645;
+   }
+   .slider{
+     width: 50%;
+   }
